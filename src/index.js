@@ -4,6 +4,8 @@ import './index.css';
 
 import CurrencyConverter from './components/CurrencyConverter';
 
+import 'bootstrap/dist/css/bootstrap.min.css';  
+
 ReactDOM.render(
   <React.StrictMode>
     <CurrencyConverter />
